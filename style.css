@@ -1,0 +1,63 @@
+* {
+	font-family: cursive;
+}
+
+h1 {
+	text-align: center
+}
+
+.container {
+	margin: auto;
+	width: 90%;
+	height: 400px;
+	
+}
+
+.menu {
+	width:28%;
+	height: auto;
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 30px;
+	
+	font-size: 14px;
+	font-family: cursive;
+	background-color: aquamarine;
+}
+
+.dish1 {
+	float: right;
+	text-align: center;
+	background-color: red;
+	font-size: 18px;
+	border: solid 1px #000000;
+	width: 100px;
+		
+}
+
+.menu p {
+	margin-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
