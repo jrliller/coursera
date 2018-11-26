@@ -3,10 +3,13 @@
 }
 
 h1 {
-	text-align: center
+	text-align: center;
+	font-size: 20px;
+	margin-top: 30px;
 }
 
 .container {
+	
 	margin: auto;
 	width: 90%;
 	height: 400px;
@@ -20,21 +23,12 @@ h1 {
 	margin-right: 20px;
 	margin-left: 20px;
 	margin-top: 30px;
-	
 	font-size: 14px;
 	font-family: cursive;
-	background-color: aquamarine;
+	background-color: #bbbbbb;
+	border: solid 1px #000000;
 }
 
-.dish1 {
-	float: right;
-	text-align: center;
-	background-color: red;
-	font-size: 18px;
-	border: solid 1px #000000;
-	width: 100px;
-		
-}
 
 .menu p {
 	margin-top: 30px;
@@ -43,9 +37,31 @@ h1 {
 }
 
 
+.dish {
+	float: right;
+	text-align: center;
+	font-size: 15px;
+	border: solid 1px #000000;
+	width: 100px;
+	height: 20px;
+	line-height: 20px;
+}
 
+.chicken {
+	background-color: #ff9999;
+	font-weight: bold;
+}
 
+.beef {
+	background-color: #ff0000;
+	color: #FFFFFF;
+	font-weight: bold
+}
 
+.sushi {
+	background-color: #ffff99;
+	font-weight: bold
+}
 
 
 
