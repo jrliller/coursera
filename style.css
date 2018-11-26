@@ -64,7 +64,24 @@ h1 {
 }
 
 
+@media screen and (max-width: 991px) {
+    .it1, .it2 {
+        width: 40.5%;
+    }
+    
+    .it3 {
+        width: 85%;
+    }
+}
 
+@media screen and (max-width: 768px)   {
+    
+    .it1, .it2, .it3 {
+        width: 100%;
+        
+    }
+    
+} 
 
 
 
